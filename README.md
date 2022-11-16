@@ -1,6 +1,6 @@
 My open source contributions:
 
-- [dohjs][1] (maintainer)
+- [dohjs][1]
 - [dnspython][2]
 - [bluesnarfer][3]
 - [cloudflare/odoh-go-client][4]
