@@ -7,6 +7,7 @@ My open source contributions:
 - [mitmproxy][5]
 - [curl/doh][6] ([notable PR](https://github.com/curl/doh/pull/26))
 - [django][7]
+- [oauth2-proxy/oauth2-proxy][8]
 
   [1]: https://github.com/byu-imaal/dohjs/commits?author=kimbo
   [2]: https://github.com/rthalley/dnspython/commits?author=kimbo
@@ -15,4 +16,4 @@ My open source contributions:
   [5]: https://github.com/mitmproxy/mitmproxy/commits?author=kimbo
   [6]: https://github.com/curl/doh/commits?author=kimbo
   [7]: https://github.com/django/django/commits?author=kimbo
- 
+  [8]: https://github.com/oauth2-proxy/oauth2-proxy/commits?author=kimbo
