@@ -1,6 +1,4 @@
-[![Kimball's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimbo&show_icons=true&locale=en)](https://github.com/kimbo)
 
-<hr>
 
 Some open source projects I've contributed to:
 
@@ -21,7 +19,3 @@ Some open source projects I've contributed to:
   [6]: https://github.com/curl/doh/commits?author=kimbo
   [7]: https://github.com/django/django/commits?author=kimbo
   [8]: https://github.com/oauth2-proxy/oauth2-proxy/commits?author=kimbo
-
-<hr>
-
-[![Kimball's profile view count](https://komarev.com/ghpvc/?username=kimbo&color=00FF00)](https://github.com/kimbo)
